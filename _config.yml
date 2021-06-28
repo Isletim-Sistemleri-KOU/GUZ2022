@@ -4,7 +4,7 @@ course_description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Na
 course_semester: "Güz 2021"
 
 baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
-url: "http://veri-yapilari-ve-algoritmalar.github.io/" # the base hostname & protocol for your site
+url: "http://sayisal-tasarim.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
