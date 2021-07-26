@@ -1,6 +1,6 @@
 ---
 layout: lectures
-title: Lectures
-permalink: /lectures/
+title: Dersler
+permalink: /dersler/
 ---
 You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
