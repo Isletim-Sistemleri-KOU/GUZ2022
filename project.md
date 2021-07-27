@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project
-permalink: /project/
+title: Projeler
+permalink: /projeler/
 ---
 Describe Final project.

@@ -1,24 +1,24 @@
 items:
 - url: /
-  name: Home
+  name: Anasayfa
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
-  name: Schedule
+- url: /takvim/
+  name: Takvim
   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
+- url: /dersler/
+  name: Dersler
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
+- url: /odevler/
+  name: Ödevler
   icon_class: fas fa-user-graduate
 
-- url: /project/
-  name: Project
+- url: /projeler/
+  name: Projeler
   icon_class: fas fa-user-graduate
 
-- url: /materials/
-  name: Materials
+- url: /materyaller/
+  name: Materyaller
   icon_class: fas fa-book

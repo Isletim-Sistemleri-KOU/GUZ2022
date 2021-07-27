@@ -1,5 +1,5 @@
 ---
 layout: schedule
-title: Schedule
-permalink: /schedule/
+title: Takvim
+permalink: /takvim/
 ---

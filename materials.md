@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Materials
-permalink: /materials/
+title: Materyaller
+permalink: /materyaller/
 ---
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
