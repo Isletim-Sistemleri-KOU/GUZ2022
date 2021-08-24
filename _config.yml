@@ -4,7 +4,7 @@ course_description: "Algoritma geliştirirken probleme özgü veri yapılarını
 course_semester: "Güz 2021"
 
 baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
-url: "http://sayisal-tasarim.github.io/" # the base hostname & protocol for your site
+url: "https://veri-yapilari-ve-algoritmalar.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
