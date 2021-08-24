@@ -1,7 +1,7 @@
 # Site settings
-course_name: Veri Yapıları ve Algoritmaları
-course_description: "Lxxxxxxxxxxxxxxxxxxxxorem ipsum dolor sit amet, consectetur adipiscing elit. Nam ornare aliquam mattis. Donec hendrerit sollicitudin urna. Aliquam venenatis rutrum velit, at lobortis dui cursus a. Nam varius metus in turpis maximus, ut rhoncus tellus dictum. In aliquam tortor nec mi dapibus, sit amet vehicula dolor auctor."
-course_semester: "Güz 2021"
+ders_ismi: Veri Yapıları ve Algoritmaları
+ders_tanımı: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
+ders_dönemi: "Güz 2021"
 
 baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
 url: "http://sayisal-tasarim.github.io/" # the base hostname & protocol for your site
