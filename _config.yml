@@ -1,7 +1,7 @@
 # Site settings
-ders_ismi: Veri Yapıları ve Algoritmaları
-ders_tanımı: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
-ders_dönemi: "Güz 2021"
+course_name: Veri Yapıları ve Algoritmaları
+course_destription: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
+course_semester: "Güz 2021"
 
 baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
 url: "http://sayisal-tasarim.github.io/" # the base hostname & protocol for your site
