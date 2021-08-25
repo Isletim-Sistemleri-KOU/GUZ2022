@@ -20,10 +20,12 @@
     <li class="no-p-margin">
         {% if n.type %}
             {% if n.type == 'lecture' %}
-                New Lecture is up: {{ n.title }}
+               <!-- New Lecture is up: -->
+                Yeni Ders: {{ n.title }}
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
-                New Assignment released: [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                <!-- New Assignment released: --> 
+                Yeni Duyuru : [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
             {% else%}
                 {{ n.description }}
             {% endif %}
