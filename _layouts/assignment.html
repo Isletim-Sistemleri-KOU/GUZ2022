@@ -11,22 +11,22 @@ title: page.title
 
   <div>
     {% if page.due_event %}
-    <span style="font-weight: bold">Due Date: {{ page.due | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
+    <span style="font-weight: bold">Son Tarih: {{ page.due | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
     {% endif %}
-    <p style="font-weight: bold">Download
+    <p style="font-weight: bold">Yükleme/İndirme
       {% if page.pdf %}
-      [<a href="{{ page.pdf | prepend: site.baseurl }}">problems</a>]
+      [<a href="{{ page.pdf | prepend: site.baseurl }}">problem</a>]
       {% endif %}
       {% if page.attachment %}
-      [<a href="{{ page.attachment | prepend: site.baseurl }}">attachment</a>]
+      [<a href="{{ page.attachment | prepend: site.baseurl }}">ödev</a>]
       {% endif %}
       {% if page.solutions %}
-      [<a href="{{ page.solutions | prepend: site.baseurl }}">solutions</a>]
+      [<a href="{{ page.solutions | prepend: site.baseurl }}">çözüm</a>]
       {% endif %}
     </p>
 
     <div style="color: gray;">
-      <h3>Late Policy</h3>
+      <h3>Teslim Şartları</h3>
       {% include late_policy.html %}
     </div>
   </div>
