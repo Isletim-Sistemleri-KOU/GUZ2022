@@ -1,8 +1,8 @@
 ---
 type: lecture
-date: 2018-09-16T8:00:00+4:30
-title: Sample Lecture
-tldr: "Short text to discribe what this lecture is about."
+date: 2021-09-16T8:00:00+4:30
+title: Veri Yapılarına Giriş
+tldr: "Veri yapılarına giriş dersi" 
 thumbnail: /static_files/presentations/lec.jpg
 links: 
     - url: /static_files/presentations/lec.zip
@@ -12,6 +12,6 @@ links:
     - url: https://google.com
       name: slides
 ---
-**Suggested Readings:**
-- [Readings 1](http://example.com)
-- [Readings 2](http://example.com)
+**Önerilen Okumalar:**
+- [1](http://example.com)
+- [2](http://example.com)
