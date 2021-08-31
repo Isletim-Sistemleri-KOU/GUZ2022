@@ -15,10 +15,6 @@ items:
   name: Ödevler
   icon_class: fas fa-user-graduate
 
-- url: /projeler/
-  name: Projeler
-  icon_class: fas fa-user-graduate
-
 - url: /materyaller/
   name: Materyaller
   icon_class: fas fa-book
