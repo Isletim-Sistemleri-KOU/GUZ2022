@@ -3,4 +3,5 @@ layout: lectures
 title: Dersler
 permalink: /dersler/
 ---
-You can download the lectures here. We will try to upload lectures prior to their corresponding classes.
+Dersleri buradan indirebilirsiniz. Ders saatinden önce ilgili dersin slaytı buraya eklenecektir.
+
