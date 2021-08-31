@@ -3,4 +3,4 @@ layout: assignments
 title: Ödevler
 permalink: /odevler/
 ---
-You can download the assignments here. Also check out each assignment page for any additional info.
+Ödevleri buradan indirebilirsiniz. Ayrıca ek bilgi için her ödevin kendi sayfasına göz atabilirsiniz.
