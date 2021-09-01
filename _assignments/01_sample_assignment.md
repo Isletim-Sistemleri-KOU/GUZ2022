@@ -11,4 +11,3 @@ due_event:
     description: 'Ödev #1 son tarih'
 permalink: /odevler/1 
 ---
-This is a sample assignment.
