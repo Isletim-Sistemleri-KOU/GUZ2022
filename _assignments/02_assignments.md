@@ -1,7 +1,7 @@
 ---
 type: assignment
 date: 2021-09-01T13:07:00+4:30
-title: Ödev #1 
+title: 'Ödev #1' 
 
 # optional 
 pdf: /static_files/assignments/assign_01.pdf
