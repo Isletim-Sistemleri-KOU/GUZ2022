@@ -15,15 +15,12 @@ tldr: "Disiplin "
 hide_from_announcments: false
 
 # optional
-links: 
-    - url: /static_files/presentations/lec.zip
-      name: notes
-    - url: /static_files/presentations/code.zip
-      name: codes
+links:
     - url: https://google.com
-      name: slides
-    - url: https://example.com
-      name: other
+      name: slaytlar
+
+    - url: /static_files/presentations/code.zip
+      name: kodlar
 ---
 <!-- Other additional contents using markdown -->
 **Suggested Readings:**
