@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-01T12:43:10+4:30 
+date: 2021-10-01T12:43:10+4:30 
 title: İkinci Ders
 
 # optional
