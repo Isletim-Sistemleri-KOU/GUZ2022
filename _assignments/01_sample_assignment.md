@@ -5,10 +5,14 @@ title: 'Ödev #1 - Örnek Ödev'
 pdf: /static_files/assignments/asg.pdf
 attachment: /static_files/assignments/asg.zip
 solutions: /static_files/assignments/asg_solutions.pdf
+
+# optional
+# set it to true if you don't want this assignment to appear in the announcements section
+hide_from_announcments: true
+
 due_event: 
     type: due
     date: 2018-11-13T23:59:00+3:30
     description: 'Ödev #1 son tarih'
 permalink: /odevler/1 
 ---
-This is a sample assignment.
