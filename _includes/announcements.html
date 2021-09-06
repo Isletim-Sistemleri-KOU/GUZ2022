@@ -25,7 +25,7 @@
                 {% include lecture_links.html lecture=n %}
             {% elsif n.type == 'assignment' %}
                 <!-- New Assignment released: --> 
-                Yeni Duyuru : [<a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>]
+                 <a href="{{ n.url | prepend: site.baseurl }}">{{ n.title }}</a>
             {% else%}
                 {{ n.description }}
             {% endif %}
