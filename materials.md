@@ -6,15 +6,13 @@ permalink: /materyaller/
 
 {% include image.html url="/_images/cover2.jpg" width=175 align="right" %}
 
-## Book
+## Kitap
 
 Alan Turing and Noam Chomsky: Very Famous Book
 
-## Additional Course Materials
+## Ek Ders Materyalleri
 
-* If you are not familiar with Python programming, use any online tutorial to get a handle of it.
-* [Material #1](http://www.example.com/): how a computer chess player thinks!
-* [Material #2](http://www.example.com/): how a computer chess player thinks!
-* [Material #3](http://www.example.com/): how a computer chess player thinks!
-* [Material #4](http://www.example.com/): how a computer chess player thinks!
-* [Material #5](http://www.example.com/): how a computer chess player thinks!
+* Python programlamaya aşina değilseniz, aşağıdaki siteleri inceleyebilirsiniz.
+* [Tutorialspoint Python](https://www.tutorialspoint.com/python/index.htm)
+* [W3schools Python](https://www.w3schools.com/python/)
+

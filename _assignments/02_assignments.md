@@ -19,6 +19,6 @@ hide_from_announcments: false
 due_event: 
     type: due
     date: 2021-09-10T0:00:00+4:30
-    description: 'Assignment #1 due'
+    description: 'Ödev 1 Son Teslim Tarihi'
 ---
 <!-- Other additional contents using markdown -->
