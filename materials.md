@@ -8,11 +8,14 @@ permalink: /materyaller/
 
 ## Kitap
 
-Alan Turing and Noam Chomsky: Very Famous Book
+Veri Yapıları ve Algoritmalar
+
+Bilgisayar Mühendisliği ve Yazılım Mühendisliğinde
+
+Toros Rifat ÇÖLKESEN (Ph.D)
 
 ## Ek Ders Materyalleri
 
-* Python programlamaya aşina değilseniz, aşağıdaki siteleri inceleyebilirsiniz.
-* [Tutorialspoint Python](https://www.tutorialspoint.com/python/index.htm)
-* [W3schools Python](https://www.w3schools.com/python/)
+http://www.tutorialspoint.com/data_structures_algorithms/index.htm
+
 
