@@ -8,7 +8,7 @@ title: Giriş
 thumbnail: /_images/l1.png
 
 # optional
-tldr: "Disiplin "
+tldr: "Bu derste veri yapıları ve algoritmaları dersine giriş yapılacaktır."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
