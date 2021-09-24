@@ -1,11 +1,11 @@
 ---
 type: lecture
 date: 2021-11-01T12:43:10+4:30 
-title: İlk Ders
+title: Giriş
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /_images/l1.jpg
+thumbnail: /_images/l1.png
 
 # optional
 tldr: "Disiplin "
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://google.com
+    - url: https://docs.google.com/presentation/d/e/2PACX-1vQnWU62QtT8nzbZSxQrA2xrQ2wXWAllJAGtFJASPGNDC_6X93qDbr_-eGKMIQs6kam1kswembMlTXFe/pub?start=false&loop=false&delayms=60000
       name: slaytlar
 
     - url: /static_files/presentations/code.zip
