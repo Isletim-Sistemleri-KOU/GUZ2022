@@ -5,7 +5,7 @@ title: İlk Ders
 
 # optional
 # please use /static_files/notes directory to store notes
-thumbnail: /static_files/path/to/image.jpg
+thumbnail: /_images/l1.jpg
 
 # optional
 tldr: "Disiplin "
