@@ -16,9 +16,9 @@ hide_from_announcments: false
 
 # optional
  links:
-    - url:https://docs.google.com/presentation/d/e/2PACX-1vR7_hSxIPOTm8657-uWYhpEGogMEJCk7vtg1nUbqiAlI8hbDBcDOblUkeNBgL5Dt7asJ2GtZHUeyVJ5/pub?start=false&loop=false&delayms=3000
-#      name: slaytlar
-#
+#    - url:https://docs.google.com/presentation/d/e/2PACX-1vR7_hSxIPOTm8657-uWYhpEGogMEJCk7vtg1nUbqiAlI8hbDBcDOblUkeNBgL5Dt7asJ2GtZHUeyVJ5/pub?start=false&loop=false&delayms=3000
+      name: slaytlar
+
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
 ---
