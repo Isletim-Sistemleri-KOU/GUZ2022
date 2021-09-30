@@ -8,7 +8,7 @@ title: Giriş
 thumbnail: /_images/l1.png
 
 # optional
-tldr: "Bu derste veri yapıları ve algoritmaları dersine giriş yapılacaktır."
+tldr: "C Dilinde diziler ve matrisler"
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vQnWU62QtT8nzbZSxQrA2xrQ2wXWAllJAGtFJASPGNDC_6X93qDbr_-eGKMIQs6kam1kswembMlTXFe/pub?start=false&loop=false&delayms=60000
+    - url:https://docs.google.com/presentation/d/e/2PACX-1vR7_hSxIPOTm8657-uWYhpEGogMEJCk7vtg1nUbqiAlI8hbDBcDOblUkeNBgL5Dt7asJ2GtZHUeyVJ5/pub?start=false&loop=false&delayms=3000
       name: slaytlar
 
   #  - url: /static_files/presentations/code.zip
