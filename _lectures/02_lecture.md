@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-30-09T12:43:10+4:30 
+date: 2021-09-30T13:36:17+00:00
 title: Giriş
 
 # optional
