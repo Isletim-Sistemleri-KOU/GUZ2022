@@ -21,6 +21,8 @@ links:
 
   #  - url: /static_files/presentations/code.zip
   #    name: kodlar
+  #  - url: #
+  #    name: ders kaydı
 ---
 <!-- Other additional contents using markdown -->
 <!--
