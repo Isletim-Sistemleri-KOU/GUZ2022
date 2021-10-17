@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2021-09-30T13:36:17+00:00
+date: 2021-10-07T13:36:17+00:00
 title: Diziler ve Matrisler
 
 # optional
