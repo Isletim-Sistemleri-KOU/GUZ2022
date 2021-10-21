@@ -7,7 +7,8 @@
     const tracer = new Array1DTracer();
     const logger = new LogTracer();
     Layout.setRoot(new VerticalLayout([chart, tracer, logger]));
-    const D = Randomize.Array1D({ N: 15 });
+    //const D = Randomize.Array1D({ N: 15 });
+    const D = ([64,25,12,22,11]);
     tracer.set(D);
     tracer.chart(chart);
     Tracer.delay();
