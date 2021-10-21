@@ -7,7 +7,8 @@ const chart = new ChartTracer();
 const tracer = new Array1DTracer();
 const logger = new LogTracer();
 Layout.setRoot(new VerticalLayout([chart, tracer, logger]));
-const D = Randomize.Array1D({ N: 15, value: () => Randomize.Integer({ min: 0, max: 50 }), sorted: true });
+//const D = Randomize.Array1D({ N: 15, value: () => Randomize.Integer({ min: 0, max: 50 }), sorted: true });
+const D =([10,14,19,26,27,31,33,35,42,44]);
 tracer.set(D);
 tracer.chart(chart);
 Tracer.delay();
@@ -59,7 +60,8 @@ function BinarySearch(array, element) { // array = sorted array, element = eleme
   return -1;
 }
 
-const element = D[Randomize.Integer({ min: 0, max: D.length - 1 })];
+//const element = D[Randomize.Integer({ min: 0, max: D.length - 1 })];
+const element = 33;
 
 // logger {
 logger.println(`Aranan eleman : ${element}`);
