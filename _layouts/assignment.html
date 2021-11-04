@@ -14,7 +14,7 @@ title: page.title
     <span style="font-weight: bold">Son Tarih: {{ page.due | date: site.dateformat }} {{ page.due_event.date | date: "%H:%M" }}</span>
     {% endif %}
       {% if page.pdf %}
-      [<a href="{{ page.pdf | prepend: site.baseurl }}">Quizi başlatmak için tıklayın</a>]
+      [<a href="{{ page.pdf}}">Quizi başlatmak için tıklayın</a>]
       {% endif %}
       {% if page.attachment %}
       [<a href="{{ page.attachment | prepend: site.baseurl }}">ödev</a>]
