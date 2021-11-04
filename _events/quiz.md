@@ -9,9 +9,6 @@ description: Quiz - 1
 hide_time: false
 
 # optional
-links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vRJl9y3U42P2KJ0qSumMQET9e53pZuhkJNmEj-W-3UVKXNr-SnYJZMOuX-iChYgMxlV5yHcH6f0QmFi/pub?start=false&loop=false&delayms=3000
-      name: slaytlar
 # set it to true if you don't want this event appear to in the announcements section
 hide_from_announcments: false
 ---
