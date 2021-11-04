@@ -2,7 +2,7 @@
 type: raw_event
 name: Quiz
 date: 2020-11-04T12:00:00+0:00
-description: [Quiz - 1](https://www.classtime.com/code/K29QR7) 
+description: Quiz - 1
 
 # optional
 # if you want to hide time in Schedule, set this to true
