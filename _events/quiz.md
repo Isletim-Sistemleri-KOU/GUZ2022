@@ -1,7 +1,7 @@
 ---
 type: raw_event
 name: Quiz
-date: 2020-11-04T12:00:00+8:30
+date: 2020-11-04T12:00:00+0:00
 description: <Event description>
 
 # optional
@@ -13,5 +13,4 @@ hide_time: false
 hide_from_announcments: false
 ---
 <!-- you can create custom content using markdown. this section will be placed in "Course Materials (in schedule section)" -->
-## Hello
-this is a custom event with `code`
+[Quizi başlatmak için tıklayınız](https://www.classtime.com/code/K29QR7)
