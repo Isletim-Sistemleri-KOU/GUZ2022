@@ -3,6 +3,8 @@ type: assignment
 date: 2021-11-04T12:00:00+0:00
 title: Quiz - 1
 
+pdf:https://www.classtime.com/code/K29QR7
+
 hide_from_announcments: false
 
 due_event: 
