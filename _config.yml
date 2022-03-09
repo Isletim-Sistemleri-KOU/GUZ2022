@@ -1,10 +1,10 @@
 # Site settings
-course_name: Veri Yapıları ve Algoritmaları
-course_description: "Algoritma geliştirirken probleme özgü veri yapılarının seçimi ve kullanımı öğrenilemektedir."
-course_semester: "Güz 2021"
+course_name: Olasılık ve Rastlantı Değişkenleri
+course_description: "Olasılık ve Rastlantı Değişkenleri"
+course_semester: "BAHAR2021"
 
-baseurl: "/GUZ2021" # the subpath of your site, e.g. /blog/
-url: "https://veri-yapilari-ve-algoritmalar.github.io/" # the base hostname & protocol for your site
+baseurl: "/BAHAR2021" # the subpath of your site, e.g. /blog/
+url: "https://olasilik-ve-rastlanti-degiskenleri.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
