@@ -1,7 +1,7 @@
 ---
 type: lecture
 date: 2021-09-30T12:43:10+4:30 
-title: Giriş
+title: Koşullu Olasılık
 
 # optional
 # please use /static_files/notes directory to store notes
