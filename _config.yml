@@ -4,7 +4,7 @@ course_description: "İşletim Sistemleri"
 course_semester: "GUZ2022"
 
 baseurl: "/BAHAR2022" # the subpath of your site, e.g. /blog/
-url: "https://isletim-sistemleri.github.io/" # the base hostname & protocol for your site
+url: "https://isletim-sistemleri-kou.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Kocaeli Üniversitesi"
 schoolurl: "https://kocaeli.edu.tr"
