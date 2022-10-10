@@ -16,7 +16,7 @@ hide_from_announcments: false
 
 # optional
 links:
-    - url: https://docs.google.com/presentation/d/e/2PACX-1vTX_UOyNbHE90huOinJZNyfMsnhACsRoLeoqPrWxz9DYgqNy286pSGy3Vuzfbrsu2MV6MMYxo_oRoSN/pub?start=false&loop=false&delayms=60000
+    - url: https://docs.google.com/presentation/d/e/2PACX-1vSpkDE9qxAS4mZGbzC6hMK_B3dNi1HlZ3GUx5QJ_prllSBPJVkn9V8EZjYsQXbJqw/pub?start=false&loop=false&delayms=60000
       name: slaytlar
     
 
