@@ -18,8 +18,6 @@ hide_from_announcments: false
 links:
     - url: https://docs.google.com/presentation/d/e/2PACX-1vTX_UOyNbHE90huOinJZNyfMsnhACsRoLeoqPrWxz9DYgqNy286pSGy3Vuzfbrsu2MV6MMYxo_oRoSN/pub?start=false&loop=false&delayms=60000
       name: slaytlar
-    - url: #
-      name: ders kaydı
     
 
   #  - url: /static_files/presentations/code.zip
