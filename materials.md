@@ -4,9 +4,9 @@ title: Materyaller
 permalink: /materyaller/
 ---
 
-{% include image.html url="" width=175 align="right" %}
 
-<img src="https://m.media-amazon.com/images/P/B07CVKH7BD.01._SCLZZZZZZZ_SX500_.jp" alt="isolated" width="175"/>
+<img src="https://m.media-amazon.com/images/P/B07CVKH7BD.01._SCLZZZZZZZ_SX500_.jpg"  align="right" width="175"/>
+
 ## Kitap
 
 Operating System Concepts
