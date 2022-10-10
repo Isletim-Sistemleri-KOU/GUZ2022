@@ -4,7 +4,7 @@ title: Materyaller
 permalink: /materyaller/
 ---
 
-{% include image.html url="[/_images/veriypilarikitap.jpg](https://m.media-amazon.com/images/P/B07CVKH7BD.01._SCLZZZZZZZ_SX500_.jpg)" width=175 align="right" %}
+{% include image.html url="https://m.media-amazon.com/images/P/B07CVKH7BD.01._SCLZZZZZZZ_SX500_.jpg" width=175 align="right" %}
 
 ## Kitap
 
