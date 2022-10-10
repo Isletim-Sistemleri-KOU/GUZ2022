@@ -4,18 +4,16 @@ title: Materyaller
 permalink: /materyaller/
 ---
 
-{% include image.html url="/_images/veriypilarikitap.jpg" width=175 align="right" %}
+{% include image.html url="[/_images/veriypilarikitap.jpg](https://m.media-amazon.com/images/P/B07CVKH7BD.01._SCLZZZZZZZ_SX500_.jpg)" width=175 align="right" %}
 
 ## Kitap
 
-Veri Yapıları ve Algoritmalar
+Operating System Concepts
 
-Bilgisayar Mühendisliği ve Yazılım Mühendisliğinde
-
-Toros Rifat ÇÖLKESEN (Ph.D)
 
 ## Ek Ders Materyalleri
 
-http://www.tutorialspoint.com/data_structures_algorithms/index.htm
+http://www.tutorialspoint.com/data_structures_algorithms/index.html
 
+https://www.guru99.com/os-tutorial.html
 
