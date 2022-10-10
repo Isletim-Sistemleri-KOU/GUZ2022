@@ -8,7 +8,7 @@ title: Giriş
 thumbnail: /_images/l1.png
 
 # optional
-tldr: "Bu derste Ayrık Sistemler İçin İleri Olasılık dersine giriş yapılacaktır."
+tldr: "Bu derste İşletim Sistemleri dersine giriş yapılacaktır."
   
 # optional
 # set it to true if you dont want this lecture to appear in the updates section
