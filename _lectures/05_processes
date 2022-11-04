@@ -1,0 +1,33 @@
+---
+type: lecture
+date: 2022-11-02T12:43:10+4:30 
+title: İşletim Sistemi Hizmetleri
+
+# optional
+# please use /static_files/notes directory to store notes
+thumbnail: /_images/l5.png
+
+# optional
+tldr: "Bu derste İşletim sistemlerinde işlemler konusundan bahsedilecektir."
+  
+# optional
+# set it to true if you dont want this lecture to appear in the updates section
+hide_from_announcments: false
+
+# optional
+links:
+    - url: https://docs.google.com/presentation/d/e/2PACX-1vQbd5S84l2Swlj-G7xwYSetu-Oxj7sFQHI58y2P-i9cg7sHy52zzrWT2WEREP1lvw/pub?start=false&loop=false&delayms=60000
+      name: slaytlar
+    
+
+    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2022/tree/main/codes/lab3
+      name: kodlar
+  #  - url: #
+  #    name: ders kaydı
+---
+<!-- Other additional contents using markdown -->
+<!--
+**Suggested Readings:**
+- [Readings 1](http://example.com)
+- [Readings 2](http://example.com)
+-->
