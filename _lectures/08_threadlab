@@ -1,0 +1,31 @@
+---
+type: lecture
+date: 2022-12-07T12:43:10+4:30 
+title: Threads Lab
+
+# optional
+# please use /static_files/notes directory to store notes
+thumbnail: /_images/l6.png
+
+# optional
+tldr: "Bu derste İşletim sistemlerinde thread ile ilgili uygulama yapılacaktır."
+  
+# optional
+# set it to true if you dont want this lecture to appear in the updates section
+hide_from_announcments: false
+
+# optional
+links:
+    - url: https://greenteapress.com/semaphores/LittleBookOfSemaphores.pdf
+      name: Kitap
+    - url: https://github.com/Isletim-Sistemleri-KOU/GUZ2022/blob/main/labs/Threads.ipynb
+      name: Python Not Defteri
+    - url: https://github.com/AllenDowney/LittleBookOfSemaphores
+      name: Kitap Simulasyon
+---
+<!-- Other additional contents using markdown -->
+<!--
+**Suggested Readings:**
+- [Readings 1](http://example.com)
+- [Readings 2](http://example.com)
+-->
